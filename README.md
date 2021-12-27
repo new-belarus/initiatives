@@ -69,6 +69,7 @@
   - [Сравнение конституций 1994 и 2004](#сравнение-конституций-1994-и-2004)
 - [Культура](#культура)
   - [Беларуская Рада Культуры](#беларуская-рада-культуры)
+  - [Будзьма беларусамі](#будзьма-беларусамі)
   - [Бэйбус](#бэйбус)
   - [Гаварун - мультфільмы па-беларуску](#гаварун---мультфільмы-па-беларуску)
   - [Купалаўцы](#купалаўцы)
@@ -444,7 +445,19 @@
 - Twitter: https://twitter.com/BYCULTUREFUND
 - Instagram: https://www.instagram.com/by_culture/
 - Youtube: https://www.youtube.com/channel/UCMSy0y7xMIdqJTtki8Ux_kQ
--
+
+
+### Будзьма беларусамі
+
+Общественно-культурная кампания.
+
+Ссылки:
+
+- Официальный сайт: https://budzma.org/
+- Telegram: https://t.me/budzmaby
+- Facebook: http://www.facebook.com/budzmabelarusami
+- VK: http://vk.com/budzmabelarusami
+- Twitter: http://twitter.com/budzma
 
 
 ### Бэйбус
