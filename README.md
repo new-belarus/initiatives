@@ -401,7 +401,7 @@
 
 ### ByProsvet - самиздат Беларуси
 
-- Официальный сайт: ⚠️ `https://t.me/s/by_prosvet`
+- Официальный сайт: ⚠️ `https://byprosvet.org`
 - Telegram: https://t.me/by_prosvet
 
 
